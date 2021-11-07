@@ -1,1 +1,2 @@
-let saudacao = 'Hello, world!'
+let saudacao = 'Hello, world!'  
+let nome = "Ana"
